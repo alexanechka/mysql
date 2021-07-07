@@ -1,0 +1,1 @@
+mysqldump mysql --where="1 limit 100" help_keyword > lesson02_task04.sql
